@@ -1,4 +1,3 @@
-# alx-system_engineering-devops
 My first readme 
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
